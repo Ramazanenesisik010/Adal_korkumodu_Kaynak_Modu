@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:jigsaw",
+  "start_pool": "korkumodu:yapraksiz_agac_1",
+  "size": 1,
+  "max_distance_from_center": 2,
+  "spawn_overrides": {},
+  "step": "vegetal_decoration",
+  "terrain_adaptation": "bury",
+  "start_height": {
+    "type": "minecraft:uniform",
+    "min_inclusive": {
+      "absolute": 60
+    },
+    "max_inclusive": {
+      "absolute": 128
+    }
+  },
+  "biomes": "korkumodu:null_biome",
+  "use_expansion_hack": false
+}

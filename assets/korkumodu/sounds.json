@@ -1,0 +1,76 @@
+{
+  "statikkorku": {
+    "subtitle": "subtitles.statikkorku",
+    "sounds": [
+      {
+        "name": "korkumodu:statikkorku",
+        "stream": false
+      }
+    ]
+  },
+  "jumpscare1": {
+    "sounds": [
+      {
+        "name": "korkumodu:jumpscare1",
+        "stream": false
+      }
+    ]
+  },
+  "nulljoin": {
+    "sounds": [
+      {
+        "name": "korkumodu:nulljoin",
+        "stream": false
+      }
+    ]
+  },
+  "sifreliambiyans": {
+    "sounds": [
+      {
+        "name": "korkumodu:sifreliambiyans",
+        "stream": false
+      }
+    ]
+  },
+  "kurtolum": {
+    "sounds": [
+      {
+        "name": "korkumodu:kurtolum",
+        "stream": false
+      }
+    ]
+  },
+  "canlipatlamasi": {
+    "sounds": [
+      {
+        "name": "korkumodu:canlipatlamasi",
+        "stream": false
+      }
+    ]
+  },
+  "voidmood": {
+    "sounds": [
+      {
+        "name": "korkumodu:voidmood",
+        "stream": false
+      }
+    ]
+  },
+  "paranoya": {
+    "subtitle": "subtitles.paranoya",
+    "sounds": [
+      {
+        "name": "korkumodu:paranoya",
+        "stream": false
+      }
+    ]
+  },
+  "paranoya30sn": {
+    "sounds": [
+      {
+        "name": "korkumodu:paranoya30sn",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "korkumodu:a_4536412",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 30,
+    "separation": 13,
+    "salt": 1210400950
+  }
+}

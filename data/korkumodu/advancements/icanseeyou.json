@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "korkumodu:textures/screens/basarimarkaplan.png",
+    "icon": {
+      "item": "korkumodu:basarimikon_1"
+    },
+    "title": {
+      "translate": "advancements.icanseeyou.title"
+    },
+    "description": {
+      "translate": "advancements.icanseeyou.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "icanseeyou_0": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

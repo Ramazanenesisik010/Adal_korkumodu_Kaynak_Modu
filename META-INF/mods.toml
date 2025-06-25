@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="korkumodu"
+version="0.0.1"
+displayName="Cosmic Horror"
+displayURL="https://mcreator.net"
+credits="DogukanAdal"
+authors="DogukanAdal"
+description="Cosmic horror Minecraft mod inspired by the haunting works of H.P. Lovecraft. In this mod, you're not just surviving \u2014 you're being watched.  Unseen entities linger just beyond your perception, whispering through the fog and shifting the world around you. Reality bends, logic fades, and fear becomes your only companion.  This isn't a fight you can win. It's a truth you must survive."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.korkumodu]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

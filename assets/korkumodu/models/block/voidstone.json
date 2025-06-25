@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "korkumodu:block/void_stone",
+    "up": "korkumodu:block/void_stone",
+    "north": "korkumodu:block/void_stone",
+    "east": "korkumodu:block/void_stone",
+    "south": "korkumodu:block/void_stone",
+    "west": "korkumodu:block/void_stone",
+    "particle": "korkumodu:block/void_stone"
+  },
+  "render_type": "solid"
+}
